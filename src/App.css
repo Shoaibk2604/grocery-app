@@ -10,3 +10,28 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: rgb(242, 242, 242);
 }
+table{
+    border-radius: 50% !important;
+    border: 1px solid black;
+}
+thead{
+    background-color: rgb(43, 43, 185);
+}
+th{
+    color: whitesmoke;
+}
+th,td{
+    padding: 0.5em 1em;
+    text-align: center;
+    border: 1px solid black;
+}
+.edit-btn button{
+color: white;
+padding: 0.3em 1.5em;
+background-color: rgb(43, 43, 185);
+}
+.edit-btn button:hover{
+    color: white;
+    background-color: rgba(43, 43, 185, 0.8);
+    
+}
